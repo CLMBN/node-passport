@@ -1,0 +1,26 @@
+{
+  "name": "oauthproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CLMBN/node-passport.git"
+  },
+  "author": "Juan Ossa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CLMBN/node-passport/issues"
+  },
+  "homepage": "https://github.com/CLMBN/node-passport#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "mongoose": "^4.9.7",
+    "morgan": "^1.8.1"
+  }
+}
